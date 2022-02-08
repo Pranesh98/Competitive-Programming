@@ -17,6 +17,5 @@ int main()
             word[0]  = toupper(word[i]);  // Making 1st Position Capital.
             printf("%c", word[i]);
     }
- 
     return 0;
 }
