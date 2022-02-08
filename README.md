@@ -1,4 +1,5 @@
 # Competitive-Programming
 
-Codeforces \n
+Codeforces
+
 Beecrowd
