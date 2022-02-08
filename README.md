@@ -2,6 +2,6 @@
 
 Competitive Programming Sites:
 
-Codeforces
+   * Codeforces
 
-Beecrowd
+   * Beecrowd
