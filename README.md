@@ -1,6 +1,6 @@
 # Competitive-Programming
 
-I solved Minimum 100+ Programming Problems are solved in different sites.
+I solved Minimum of 100+ Programming Problems are solved in different sites.
 
 Competitive Programming Sites:
 
