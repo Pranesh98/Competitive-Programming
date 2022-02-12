@@ -4,7 +4,7 @@
 using namespace std;
 int main()
 {
-    int w;     // w = weight.
+    int w;      // w = weight.
     cin >> w;
 
     if (w % 2 == 0 && w > 2){
