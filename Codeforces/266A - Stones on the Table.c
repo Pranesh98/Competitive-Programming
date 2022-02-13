@@ -1,7 +1,5 @@
-/*
-    Programmer : "Pranesh Chowdhury".
-    Link: https://codeforces.com/problemset/problem/266/A
-*/
+// Program : Stones on the Table
+// Link: https://codeforces.com/problemset/problem/266/A
 
 #include<stdio.h>
 int main()
@@ -19,7 +17,6 @@ int main()
             count++;
         }
     }
-
     printf("%d", count);
 
     return 0;
