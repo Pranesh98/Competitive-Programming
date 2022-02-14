@@ -4,6 +4,7 @@ I solved a Minimum of 100+ Programming Problems are solved in different sites.
 
 Competitive Programming Sites:
 
-   * Codeforces
+   * Codeforces (15+ solved)
 
-   * Beecrowd
+   * Beecrowd (70+ solved)
+
