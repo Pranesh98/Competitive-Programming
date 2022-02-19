@@ -8,4 +8,4 @@ Competitive Programming Sites:
    * Beecrowd 
    * Hackerrank
  
-In Codeforces I solved 15+ problems. Beecrowd solved 70 problems. Also solved 50+ problems in Hackerrank.
+In Codeforces I solved 16+ problems. Beecrowd solved 73 problems. Also solved 50+ problems in Hackerrank.
