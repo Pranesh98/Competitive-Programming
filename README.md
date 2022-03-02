@@ -4,8 +4,7 @@ I solved a Minimum of 100+ Programming Problems in different sites.
 
 Competitive Programming Sites:
 
-   * Codeforces 
-   * Beecrowd 
-   * Hackerrank
+   * Codeforces    (16 solved)
+   * Beecrowd      (75 solved)
+   * Hackerrank    (40 solved)
  
-In Codeforces I solved 16+ problems. Beecrowd solved 73 problems. Also solved 50+ problems in Hackerrank.
